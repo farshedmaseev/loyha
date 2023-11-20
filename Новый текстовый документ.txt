@@ -1,0 +1,77 @@
+CSS ni html ga ulashninh 3 xil usuli bor 
+
+1-Inline CSS-style atributidan foydalanib CSS berish
+2-Niternal CSS- style tegidan foydalanib head tegi ichida yoziladi
+3-External CSS-alohida css file yaratib Css berishi
+
+		ID
+
+Css da class ga mrojat qilish uchun "." dan foydalanib. Shu nuqtadan keyin class nomi ni yozamiz.
+
+
+		CLASS
+
+Css da id ga mrojat qilish uchun "#" dan foydalanib. Shu nuqtadan keyin id  nomi ni yozamiz.
+
+
+
+            MARGIN
+
+Margin - tegni tashqi tarafudagi masofa
+
+Comment qo'yish-/* */ shu belgilar orasiga comment yoziladi
+
+Margin top -tepadan joy qoldiradi
+
+Margin botton -pastdan joy qoldiradi
+
+Margin laft -chapdan joy qoldiradi
+
+Margin right -o'ngdan joy qoldiradi
+
+
+margin: 20px        30px       40px      50px;
+                 |               |              |              |
+             top         right       botton      laft
+
+
+margin: 20px      30px       40px 
+                |               |              |
+             top        right       botton
+                          laft
+  
+margin: 20px        30px 
+                |                |
+             top            right
+          botton           laft
+
+
+        PADDING
+
+
+padding: 20px        30px       40px      50px;
+                 |               |              |              |
+             top         right       botton      laft
+
+
+padding: 20px      30px       40px 
+                |               |              |
+             top        right       botton
+                          laft
+
+
+padding: 20px        30px 
+                |                |
+             top            right
+          botton           laft
+
+
+		BORDER
+
+border:  10px     solid -dotted-dashed-duble        red
+                |                             |                             |
+             hajmi                   turlari                     rang
+
+border-radius:
+
+
